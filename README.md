@@ -62,7 +62,7 @@ innerHTML;</div>
 ou 100. Atualmente, cada ponto conquistado vale uma unidade.</div>
 
 ## Para jogar 🕹🎮  
-- Abrir o arquivo "form.js" no navegador de preferência;
+- Abrir o arquivo "form.html" no navegador de preferência;
  
 ## Status do Projeto 📆📌
 - O projeto encontra-se finalizado.
