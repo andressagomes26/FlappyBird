@@ -65,7 +65,7 @@ ou 100. Atualmente, cada ponto conquistado vale uma unidade.</div>
 - Abrir o arquivo "form.js" no navegador de preferência;
  
 ## Status do Projeto 📆📌
-- O projeto encontra-se em desenvolvimento.
+- O projeto encontra-se finalizado.
 
 ## Licença
 - MIT
